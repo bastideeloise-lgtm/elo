@@ -1,0 +1,9 @@
+cmake-build-*/
+build/
+*.exe
+*.o
+*.obj
+*.log
+*.tmp
+.idea/workspace.xml
+.vscode/
